@@ -1,0 +1,19 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
+torchaudio
+
+ipykernel==6.29.3
+ipython==8.22.2
+jupyter_client==8.6.1
+jupyter_core==5.7.2
+# matplotlib==3.8.3
+# matplotlib-inline==0.1.6
+numpy==1.26.4
+opencv-python==4.9.0.80
+opencv-python-headless==4.8.0.74
+pillow==10.2.0
+requests==2.31.0
+requests-toolbelt==1.0.0
+roboflow==1.1.23
+ultralytics==8.1.27
