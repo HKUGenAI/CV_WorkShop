@@ -1,9 +1,7 @@
-# CV_WorkShop
-All code related to CV WorkShop
-1. YoloV8 Colab object detection customisable dataset: https://colab.research.google.com/drive/1_yX3ICW8Y4Cxt_aVsXykdFMLqx0EHfCz#scrollTo=3jkRF3O0PlU3
-2. GD full workshop 
-
 ## Install Miniconda
+
+0. open terminal (Should see a green color text)
+
 1. Download Miniconda
 `wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh`
 
