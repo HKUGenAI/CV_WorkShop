@@ -1,8 +1,8 @@
-RUN: bash setup.sh
+1. RUN: bash setup.sh
 
-You will see error "pip3"
+2. You will see error "pip3"
 
-close the terminal and open new terminal
+3. Close the terminal and open new terminal
 
-RUN again: bash setup.sh
+4. RUN again: bash setup.sh
 
