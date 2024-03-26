@@ -1,6 +1,8 @@
-torch==2.2.1
-torchvision==0.17.1
-tornado==6.4
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
+torchaudio
+
 ipykernel==6.29.3
 ipython==8.22.2
 jupyter_client==8.6.1
@@ -12,3 +14,4 @@ pillow==10.2.0
 requests==2.31.0
 requests-toolbelt==1.0.0
 roboflow==1.1.23
+ultralytics==8.0.196
