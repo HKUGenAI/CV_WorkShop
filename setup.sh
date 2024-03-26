@@ -6,4 +6,5 @@ rm -rf ~/miniconda3/miniconda.sh
 
 ~/miniconda3/bin/conda init bash
 
-pip install -r requirements_yolo.txt
+pip3 install -r requirements_yolo
+pip3 install -r requirements_GD
